@@ -1,5 +1,6 @@
 # requirements.txt
 python-telegram-bot==20.7
+httpx==0.23.0
 requests
 pymongo[srv]
 python-dotenv
